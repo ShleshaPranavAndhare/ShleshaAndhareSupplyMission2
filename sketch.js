@@ -43,7 +43,7 @@ function setup() {
 	//Create a Ground
 	ground = Bodies.rectangle(width/2, 650, width, 10 ,boxPosition=width/2-100);
 
-		boxY=160;
+		boxY=680;
    
    
 		boxleftSprite=createSprite(boxPosition, boxY, 20,100);
